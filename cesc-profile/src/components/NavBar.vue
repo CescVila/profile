@@ -54,8 +54,10 @@ x-data="{open:false,menu:false, lokasi:false}">
       </div>
     </div>
   </div>
+  <div></div>
 </nav>
 </div>
+
 </template>
 
 <script>
@@ -65,6 +67,7 @@ export default {
     msg: String
   }
 }
+
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
